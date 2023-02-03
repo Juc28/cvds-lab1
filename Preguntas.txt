@@ -1,0 +1,44 @@
+Erika Juliana Castro Romero 
+
+Respues de las preguntas 
+
+PARTE I. - CREANDO REPOSITORIOS
+Punto 10 
+¿Las dos parejaslo pudieron hacer?,¿Qué quedó al final en la versión oficial?
+R/Si se pudo lograr y la versión oficial final fue para ambos la corrección del archivo feerratas.txt
+
+Usando elcomando gitk,¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
+
+PARTE II. - INTRODUCCIÓNGENERAL GIT
+
+3. Investigue un poco acerca de Markdown y de cómo realizar un archivo README.
+
+- MARKDOW --> Es un lenguaje de marcado el cual facilita la publicación y consigue una máxima legibilidad 
+
+- Como hacer un arhivo README:
+	Con este se busca:
+		- Descripción de su proyecto.
+		- funcionalidades.
+		- Cómo pueden usarlo los usuarios.
+		- Donde los usuarios pueden encontrar ayuda sobre su proyecto.
+		- Autores del proyecto.
+	Elementos:
+		- Título e imagen de portada.
+		- Insignias.
+		- Índice.
+		- Descripción del Proyecto.
+		- Estado del proyecto.
+		- Demostración de funciones y aplicaciones.
+		- Acceso al Proyecto.
+		- Tecnologías utilizadas.
+		- Personas Contribuyentes.
+		- Personas Desarrolladoras del Proyecto.
+		- Licencia.
+
+
+
+
+BIBLIOGRAFIA 
+https://markdown.es/sintaxis-markdown/
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
