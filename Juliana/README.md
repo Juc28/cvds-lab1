@@ -12,8 +12,8 @@ Tengo 19 años cumpleaños el **28 de febrero** actualmente estudio la carrera d
 6. RECO (Redes de computadores)
 7. INGLÉS
 ## Mis gustos musicales:
-* el pop
-* rock
+* El pop
+* Rock
 * Grunge
 ```
 public class Maltila_cancion { 
