@@ -25,8 +25,18 @@ public class Maltila_cancion {
 ### Harry Styles uno de mis artistas favoritos
 ![Harry Styles](harry.jpg)
 
+## GIT BRANCHING
+**Ejercicios main**\
+**Erika Juliana Castro Romero**\
+**Carnet : 2170643**
 
+![](main.png)
+![](main1.png)
 
+**Ejercicios remote**\
+**Erika Juliana Castro Romero**\
+**Carnet : 2170643**
+![](remoto.png)
 
 
 
